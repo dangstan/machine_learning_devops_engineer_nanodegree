@@ -1,0 +1,126 @@
+{
+    "os": "Linux-5.15.0-47-generic-x86_64-with-glibc2.29",
+    "python": "3.8.16",
+    "heartbeatAt": "2023-02-01T21:48:20.324676",
+    "startedAt": "2023-02-01T21:48:19.956707",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_file",
+        "./second_project/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/zen.txt",
+        "--artifact_name",
+        "zen_of_python",
+        "--artifact_type",
+        "text_file",
+        "--artifact_description",
+        "20 aphorisms about writing good python code"
+    ],
+    "state": "running",
+    "program": "./second_project/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/upload_artifact.py",
+    "codePath": "second_project/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/upload_artifact.py",
+    "git": {
+        "remote": "https://github.com/dangstan/machine_learning_devops_engineer_nanodegree.git",
+        "commit": null
+    },
+    "email": "danielgbenjamim@gmail.com",
+    "root": "/workspace/machine_learning_devops_engineer_nanodegree",
+    "host": "dangstan-machinelearnin-94jl74kgvwr",
+    "username": "gitpod",
+    "executable": "/home/gitpod/.pyenv/versions/3.8.16/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2449.998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2449.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1399.9760780334473,
+        "used": 442.4333724975586
+    },
+    "memory": {
+        "total": 62.80344009399414
+    }
+}
