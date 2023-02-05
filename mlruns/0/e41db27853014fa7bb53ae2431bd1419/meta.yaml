@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/machine_learning_devops_engineer_nanodegree/mlruns/0/e41db27853014fa7bb53ae2431bd1419/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e41db27853014fa7bb53ae2431bd1419
+run_name: likeable-mare-769
+run_uuid: e41db27853014fa7bb53ae2431bd1419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675628471849
+status: 1
+tags: []
+user_id: gitpod

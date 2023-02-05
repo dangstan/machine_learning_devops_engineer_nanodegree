@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/machine_learning_devops_engineer_nanodegree/mlruns/0/9bd5c9b4a9d747f2a3118c68986b313a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bd5c9b4a9d747f2a3118c68986b313a
+run_name: wise-turtle-214
+run_uuid: 9bd5c9b4a9d747f2a3118c68986b313a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675627695934
+status: 1
+tags: []
+user_id: gitpod
